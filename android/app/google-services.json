@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "402027140954",
+    "firebase_url": "https://homeshop668ar-ar-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "homeshop668ar-ar",
+    "storage_bucket": "homeshop668ar-ar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402027140954:android:203075b1adc80c34f54563",
+        "android_client_info": {
+          "package_name": "com.example.homeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLd0fPEITxkFSOGb7m0sPQSVNXf0ty4yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
